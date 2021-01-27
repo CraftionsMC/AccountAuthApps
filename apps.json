@@ -2,6 +2,7 @@
   "allowed_urls": [
     "https://link.craftions.net",
     "https://password-generator.craftions.net",
-    "https://botmaker.mctzock.de"
+    "https://botmaker.mctzock.de",
+    "https://apply.craftions.net"
    ]
 }
